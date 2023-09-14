@@ -69,7 +69,7 @@
    - **(6.)** PC Market Share Trend - AtliQ & Competitors
 
 
-## _[LINK TO PROJECT](https://github.com/Pranav6818/Project360_View/blob/main/project%20360.pdf)_
+_[LINK TO PROJECT](https://github.com/Pranav6818/Project360_View/blob/main/project%20360.pdf)_
 
  
 
